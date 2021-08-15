@@ -6,7 +6,7 @@
 다음으로 제가 그동안 만든 어플리케이션을 소개해드리고자 합니다.
 
 
-1. Appstore Top download List (클론 어플리케이션)
+**1. Appstore Top download List (클론 어플리케이션)**
 
 
 <img src="https://play-lh.googleusercontent.com/BMlCrMtcrUjRcFSuE9W60GNainCeX1KYKbZWDoWixp5zN6GpYCkIEKdOe-eX-Y7cjA=w2560-h1272-rw" width="300">
@@ -14,7 +14,7 @@
 애플 앱스토어에서 xml 데이터를 받아와서 화면에 인기 어플과 노래 순위를 표시해주는 어플리케이션입니다.
 링크 : https://play.google.com/store/apps/details?id=com.zynastor.top10downloader
 
-2. PicInPic (자체 개발 어플리케이션)
+**2. PicInPic (자체 개발 어플리케이션)**
 
 
 <img src="https://play-lh.googleusercontent.com/TbYg66lF6S5hcnP38J4fcCsIgjeGBnYYro15TXC1flS86sSnIlmGmqb6QMcogBj6sB8=w2560-h1272-rw" width="250"><img src="https://play-lh.googleusercontent.com/Ej1qrFjXRxPzxyg4w-BFz3UUb7K15UTNY_nZB6kXl78BMHDXs0hwctLR6LzC6VVmhQ=w2560-h1272-rw" width="250"><img src="https://play-lh.googleusercontent.com/3jXkb7i0iNLshebwpJfsxEEg0R7DZ1V5oIBbOt0wIrb53HZ-ziCnjfRhQplTEqGpTw=w2560-h1272-rw" width="250">
@@ -23,7 +23,7 @@
 전체 소스코드는 여기에서 확인하실 수 있습니다 : https://github.com/Zynastor/PicInPic
 링크 : https://play.google.com/store/apps/details?id=com.zynastor.picinpic.demo
 
-3. PDFuiz (자체 개발 어플리케이션)
+**3. PDFuiz (자체 개발 어플리케이션)**
 
 
 <img src="https://play-lh.googleusercontent.com/VLPpRP5shvuPWiFIoRP4_CSavwrbuQ6YBKzgSJ8cVvEsduD_OX-MCG3-xbyTTHG5rgw=w2560-h1272-rw" width="250"><img src="https://play-lh.googleusercontent.com/QHgvFMhZWXxPHvNS9sBeKL86xYUjW8_y31L8JNU_Te8j3JqJxIee8uS9UP5-4ex_BUw=w2560-h1272-rw" width="250"><img src="https://play-lh.googleusercontent.com/sK-SeqQUAOpaZ_dXo3NC9_HJQ8GnE4kbL64B-nMjcIfOsCMhxxF4GVwFUnWSWY_-CQ=w2560-h1272-rw" width="250">
@@ -33,7 +33,7 @@
 다음의 라이브러리를 사용하여 구현하였습니다 : https://github.com/barteksc/AndroidPdfViewer
 링크 : https://play.google.com/store/apps/details?id=com.zynastor.pdfuiz
 
-4. Simple Paint app(Open source) (자체 개발 어플리케이션)
+**4. Simple Paint app(Open source) (자체 개발 어플리케이션)**
 
 
 <img src="https://play-lh.googleusercontent.com/ZKP2Vxp080dhVIVUBV__V5s3xmd90VCXYiIf0tSDWw5gUhmf22gUAhsexPoA143Emw=w2560-h1272-rw" width="300"><img src="https://play-lh.googleusercontent.com/E36kyNk-FlxE3S6pUd2P3d-re1cDh8PZExMn6V6N0oRpOp7r0It7jKA5lICjBhGk1PQD=w2560-h1272-rw" width="300">
@@ -42,7 +42,7 @@
 전체 소스코드는 여기에서 확인하실 수 있습니다 : https://github.com/Zynastor/AndroidPaint
 링크 : https://play.google.com/store/apps/details?id=com.zynastor.androidpaint
 
-5. 기본 프로필사진 색 변경
+**5. 기본 프로필사진 색 변경**
 
 
 <img src="https://play-lh.googleusercontent.com/LCC56YrP9LSnkC4tZMlZ7Zo03N4j7DCYAdEVNCCidHQD5xchs-Vt-lW1VXqtodrvTFI=w2560-h1272-rw" width="250"><img src="https://play-lh.googleusercontent.com/KnkEndAQ0U2FQcWZ8wa6Ra5BiDbvpalkq9FR_f4i7CCNpqFLo-CTftR0jp3ssAISVQ=w2560-h1272-rw" width="250"><img src="https://play-lh.googleusercontent.com/TYniHD5MJYjr6SygQh0hcL4Xq9_Y-yPjPsF88fvWrCXtbQJE0VGuWkG_7q8fQW3MqQ=w2560-h1272-rw" width="250">
