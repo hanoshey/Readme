@@ -54,8 +54,8 @@ Canvas를 사용하여 구현하였습니다.
 링크 : https://play.google.com/store/apps/details?id=com.zynastor.defaultprofile  
 
 
-다음으로 제가 다룰 수 있는 기술입니다.   
-Room 라이브러리, MVVM 모델, 구글 결제 API 활용  
+다음으로 제가 활용할 수 있는 안드로이드 관련 기술입니다.   
+Room 라이브러리, MVVM 모델, 구글 결제 API 활용, Jetpack compose, Retrofit, REST API
 
 
 #### 이상으로 제 안드로이드 앱 포트폴리오를 마치겠습니다.  
