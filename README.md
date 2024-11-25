@@ -23,6 +23,8 @@
 - 배송지가 근처에 있을 때 거리와 방향 알려주기
 가 있습니다.
 
+이 앱은 모두 Jetpack Compose를 이용하여 제작되었습니다.
+
 Play store 링크: https://play.google.com/store/apps/details?id=com.zynastor.baesongfriends&pcampaignid=web_share
 
 시연영상: https://youtu.be/JBWXCGZshPA?si=0Bmf0-njjtlKzfQP 
